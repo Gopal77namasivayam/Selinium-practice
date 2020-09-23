@@ -30,3 +30,4 @@ public class LaunchFF {
 
 //Close() - It is used to close the browser or page currently which is having the focus.
 //Quit() - It is used to shut down the web driver instance or destroy the web driver instance(Close all the windows)
+// practice git pyll paractice
